@@ -19,10 +19,18 @@
 //Retorno inteiro
 //O número do século em que se encontra o ano.
 
-
 function centuryFromYear($year)
 {
+    $century = $year / 100;
+    $resto = $year % 100;
+    if (($resto) > 0) {
+        $century = $century - ($resto / 100) + 1;
+    } else {
+        $century = $century;
+    };
+    return "<p>Século $century</p>";
+};
 
-    // CÓDIGO ...
 
-}
+
+echo centuryFromYear(3001);

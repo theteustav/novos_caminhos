@@ -11,5 +11,7 @@
 
 function commonCharacterCount($s1, $s2)
 {
-    // CÓDIGO
+    return  similar_text($s1, $s2);
 }
+
+echo commonCharacterCount("aabcc", "abcaa");

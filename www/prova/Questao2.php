@@ -18,5 +18,12 @@
 
 function checkPalindrome($inputString)
 {
-    // CÓDIGO
+
+    if ($inputString == strrev($inputString)) {
+        return true;
+    } else {
+        return false;
+    }
 }
+
+var_dump(checkPalindrome("abac"));
