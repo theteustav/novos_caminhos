@@ -33,4 +33,4 @@ function centuryFromYear($year)
 
 
 
-echo centuryFromYear(3001);
+echo centuryFromYear(3002);
