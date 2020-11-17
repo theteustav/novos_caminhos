@@ -8,104 +8,103 @@
     <link rel='shortcut icon' href='assets/img/ifto.svg'>
     <link rel='stylesheet' href='assets/css/boot.css'>
     <link rel='stylesheet' href='assets/css/style.css'>
+
     <title>Document</title>
+
 </head>
 
 <body>
 
     <header>
-        <h1>Seja bem vindo ao meu site</h1>
-        <p>Exemplo de Seletores</p>
+        <h1>
+            Seja bem vindo ao meu site
+        </h1>
+        <p>Exemplo de seletores</p>
     </header>
 
     <main>
-
-        <a href="#" class="btn btn_green"> Botão </a>
-        <a href="#" class="btn btn_red"> Excluir </a>
+        <a href="btn btn_green">Botão</a>
+        <a href="btn btn_red">Excluir</a>
 
         <section class="main_blog radius">
             <header>
-                <h2>Sessão Principal de Conteúdo</h2>
+                <h2>
+                    Sessão Principal de Conteúdo
+                </h2>
             </header>
-
             <article class="radius">
                 <header>
-                    <h3 class="title_medium_lightgray">Teste de Artigo</h3>
+                    <h3 class="title_medium_lightgray">
+                        Teste de Artigo
+                    </h3>
                 </header>
-
                 <p>
-                    Consequuntur sint ea. Qui quos eum est voluptatem alias. Beatae suscipit corporis ea exercitationem
-                    rerum. Earum harum qui in. Repellendus error deleniti.
+                    Laboriosam accusamus molestias magni deleniti et exercitationem voluptas. Architecto et sunt odio
+                    facere
+                    ullam et soluta. Harum aut et. Dignissimos quos eum impedit sint enim magni enim illum sint. Nostrum
+                    sit
+                    a.
                 </p>
             </article>
-            <article class="radius">
+            <article>
                 <header>
-                    <h3 class="title_medium_lightgray">Teste de Artigo</h3>
+                    <h3>
+                        Teste de Artigo
+                    </h3>
                 </header>
-
                 <p>
-                    Consequuntur sint ea. Qui quos eum est voluptatem alias. Beatae suscipit corporis ea exercitationem
-                    rerum. Earum harum qui in. Repellendus error deleniti.
+                    Laboriosam accusamus molestias magni deleniti et exercitationem voluptas. Architecto et sunt odio
+                    facere
+                    ullam et soluta. Harum aut et. Dignissimos quos eum impedit sint enim magni enim illum sint. Nostrum
+                    sit
+                    a.
                 </p>
             </article>
-            <article class="radius">
+            <article>
                 <header>
-                    <h3 class="title_medium_lightgray">Teste de Artigo</h3>
+                    <h3>
+                        Teste de Artigo
+                    </h3>
                 </header>
-
                 <p>
-                    Consequuntur sint ea. Qui quos eum est voluptatem alias. Beatae suscipit corporis ea exercitationem
-                    rerum. Earum harum qui in. Repellendus error deleniti.
+                    Laboriosam accusamus molestias magni deleniti et exercitationem voluptas. Architecto et sunt odio
+                    facere
+                    ullam et soluta. Harum aut et. Dignissimos quos eum impedit sint enim magni enim illum sint. Nostrum
+                    sit
+                    a.
                 </p>
             </article>
-            <article class="radius">
+            <article>
                 <header>
-                    <h3 class="title_medium_lightgray">Teste de Artigo</h3>
+                    <h3>
+                        Teste de Artigo
+                    </h3>
                 </header>
-
                 <p>
-                    Consequuntur sint ea. Qui quos eum est voluptatem alias. Beatae suscipit corporis ea exercitationem
-                    rerum. Earum harum qui in. Repellendus error deleniti.
+                    Laboriosam accusamus molestias magni deleniti et exercitationem voluptas. Architecto et sunt odio
+                    facere
+                    ullam et soluta. Harum aut et. Dignissimos quos eum impedit sint enim magni enim illum sint. Nostrum
+                    sit
+                    a.
                 </p>
             </article>
-            <article class="radius">
-                <header>
-                    <h3 class="title_medium_lightgray">Teste de Artigo</h3>
-                </header>
-
-                <p>
-                    Consequuntur sint ea. Qui quos eum est voluptatem alias. Beatae suscipit corporis ea exercitationem
-                    rerum. Earum harum qui in. Repellendus error deleniti.
-                </p>
-            </article>
-            <article class="radius">
-                <header>
-                    <h3 class="title_medium_lightgray">Teste de Artigo</h3>
-                </header>
-
-                <p>
-                    Consequuntur sint ea. Qui quos eum est voluptatem alias. Beatae suscipit corporis ea exercitationem
-                    rerum. Earum harum qui in. Repellendus error deleniti.
-                </p>
-            </article>
-
         </section>
     </main>
 
-    <article class="radius">
+    <article>
         <header>
-            <h3 class="title_medium_lightgray">Teste de Artigo</h3>
+            <h3>
+                Teste de Artigo
+            </h3>
         </header>
-
         <p>
-            Consequuntur sint ea. Qui quos eum est voluptatem alias. Beatae suscipit corporis ea exercitationem
-            rerum. Earum harum qui in. Repellendus error deleniti.
+            Laboriosam accusamus molestias magni deleniti et exercitationem voluptas. Architecto et sunt odio facere
+            ullam et soluta. Harum aut et. Dignissimos quos eum impedit sint enim magni enim illum sint. Nostrum sit
+            a.
         </p>
     </article>
 
-    <p>
-        Estamos estudando css 3
-    </p>
+
     <script> </script>
 </body>
 
