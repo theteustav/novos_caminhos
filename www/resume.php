@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
+    <title>Matheus Tavares dos Santos</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="author" content="Iury Gomes de Oliveira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="author" content="Matheus Tavares dos Santos" />
+    <meta name="description" content="Portifólio de trabalhos realizados e formação de Matheus Tavares dos Santos" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
@@ -34,30 +34,35 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/matheus.jpeg" alt="Matheus Tavares dos Santos">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
-                        <div class="status">Desenvolvedor WEB</div>
+                        <h4 class="title titl--h4">Matheus Tavares dos Santos</h4>
+                        <div class="status">Desenvolvedor WEB e Cadista</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
-                                    <i class="font-icon icon-linkedin"></i>
+                                <a href="https://www.instagram.com/tavares.matheus17/">
+                                    <i class="font-icon icon-instagram"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/theteustav">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
+                                <a href="https://www.youtube.com/user/TheMatheus1713/featured?view_as=subscriber">
                                     <i class="font-icon icon-youtube"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
+                                <a href="https://twitter.com/Matheus17056743">
                                     <i class="font-icon icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/matheus.tavares.39108">
+                                    <i class="font-icon icon-facebook"></i>
                                 </a>
                             </li>
 
@@ -70,11 +75,11 @@
                             <span class="overhead">
                                 Email
                             </span>
-                            email.comercial@contato.com.br
+                            matheustavares@contato.com.br
                         </li>
                         <li>
                             <span class="overhead">Telefone</span><a
-                                href="https://api.whatsapp.com/send?phone=55xxxxxxxxxxx">+55 (xx) xxxxx-xxxx </a>
+                                href="https://api.whatsapp.com/send?phone=5563992xxxx95">+55 (63) 992xx-xx95 </a>
                         </li>
                     </ul>
                     <ul class="header__contact">
@@ -83,7 +88,7 @@
                             <span class="overhead">
                                 Endereço
                             </span>
-                            Endereço Comercial - UF
+                            Araguaína - TO
                         </li>
                     </ul>
                 </div>
@@ -118,32 +123,33 @@
                                 <div class="timeline">
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">MBA em Gestão de Tecnologia da
-                                            Informação</h5>
-                                        <span class="timeline__period">2013 — 2014</span>
+                                        <h5 class="title title--h5 timeline__title">MBA em Engenharia de Software</h5>
+                                        <span class="timeline__period">2019 — 2020</span>
                                         <p class="timeline__description">
-                                            Centro Universitário Newton Paiva</p>
+                                            Universidade Pitagoras Unopar</p>
                                     </article>
 
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Bacharelado em Ciência da Computação
+                                        <h5 class="title title--h5 timeline__title">Bacharelado em Sistemas de
+                                            Informação
                                         </h5>
-                                        <span class="timeline__period">2005 — 2009</span>
-                                        <p class="timeline__description">Universidade Católica de Goiás</p>
+                                        <span class="timeline__period">2015 — 2018</span>
+                                        <p class="timeline__description">Centro Universitário Presidente Antonio Carlos
+                                            Ltda - Unitpac</p>
                                     </article>
 
                                     <!-- Item -->
-                                    <article class="timeline__item">
+                                    <!-- <article class="timeline__item">
                                         <h5 class="title title--h5 timeline__title">
                                             Bootcamp Full Stack Developer
                                         </h5>
                                         <span class="timeline__period">2020 — 2020</span>
                                         <p class="timeline__description">IGTI - Instituto de Gestão e Tecnologia da
                                             Informação.</p>
-                                    </article>
+                                    </article> -->
                                     <!-- Item -->
-                                    <article class="timeline__item">
+                                    <!-- <article class="timeline__item">
                                         <h5 class="title title--h5 timeline__title">Cursos Extracurriculares</h5>
                                         <span class="timeline__period">ano — ano</span>
                                         <p class="timeline__description">Empresa</p>
@@ -163,7 +169,7 @@
                                             <li>Curso 2</li>
                                             <li>Curso 2</li>
                                         </ul>
-                                    </article>
+                                    </article> -->
 
 
                                 </div>
@@ -174,21 +180,23 @@
                                 <div class="timeline">
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
+                                        <h5 class="title title--h5 timeline__title">Oracle Certified Professional
+                                            Advanced PL/SQL</h5>
+                                        <span class="timeline__period">2020</span>
+                                        <p class="timeline__description">Oracle</p>
                                     </article>
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
+                                        <h5 class="title title--h5 timeline__title">Certificação DELL EMC</h5>
+                                        <span class="timeline__period">2020</span>
+                                        <p class="timeline__description">DELL</p>
                                     </article>
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
+                                        <h5 class="title title--h5 timeline__title">Microsoft Certified Solutions
+                                            Developer</h5>
+                                        <span class="timeline__period">2020</span>
+                                        <p class="timeline__description">Microsoft</p>
                                     </article>
 
                                 </div>
@@ -202,32 +210,33 @@
                                 <div class="timeline">
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
+                                        <h5 class="title title--h5 timeline__title">Hi Tech Inovação</h5>
+                                        <span class="timeline__period">2020 — Presente</span>
+                                        <p class="timeline__description">Consultoria de Tecnologia - Madrid, Espanha
+                                        </p>
                                     </article>
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
+                                        <h5 class="title title--h5 timeline__title">Analista de Suporte a Sistemas
+                                            Junior</h5>
+                                        <span class="timeline__period">2018 — 2020</span>
+                                        <p class="timeline__description">Principal mantenedor do Sistema Totvs EVM e
+                                            Intranet, e criação de documentação de sistemas. </p>
                                     </article>
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
+                                        <h5 class="title title--h5 timeline__title">Estagiário de TI</h5>
+                                        <span class="timeline__period">2017 — 2018</span>
+                                        <p class="timeline__description">Suporte a usuários no atendimento técnico a
+                                            soluções ou problemas de TI.</p>
                                     </article>
                                     <!-- Item -->
-                                    <article class="timeline__item">
+                                    <!-- <article class="timeline__item">
                                         <h5 class="title title--h5 timeline__title">Cargo 1</h5>
                                         <span class="timeline__period">Ano Inicial — Presente</span>
                                         <p class="timeline__description">Dentre as principais responsabilidades,
                                             destacam ....</p>
-                                    </article>
+                                    </article> -->
 
                                 </div>
                             </div>
@@ -242,14 +251,14 @@
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" aria-valuenow="50"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>PHP</span><span>50%</span></div>
+                                            <div class="progress-text"><span>PHP</span><span>80%</span></div>
                                         </div>
                                         <div class="progress-text"><span>PHP</span></div>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" aria-valuenow="60"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>WordPress</span><span>60%</span></div>
+                                            <div class="progress-text"><span>WordPress</span><span>20%</span></div>
                                         </div>
                                         <div class="progress-text"><span>WordPress</span></div>
                                     </div>
@@ -258,30 +267,24 @@
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" aria-valuenow="40"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>JavaScript</span><span>40%</span></div>
+                                            <div class="progress-text"><span>JavaScript</span><span>70%</span></div>
                                         </div>
                                         <div class="progress-text"><span>JavaScript</span></div>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" aria-valuenow="40"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>Node.js</span><span>30%</span></div>
+                                            <div class="progress-text"><span>Node.js</span><span>50%</span></div>
                                         </div>
                                         <div class="progress-text"><span>Node.js</span></div>
                                     </div>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="40"
-                                            aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>JavaScript</span><span>40%</span></div>
-                                        </div>
-                                        <div class="progress-text"><span>JavaScript</span></div>
-                                    </div>
+
 
                                     <!-- Progress -->
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" aria-valuenow="50"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>CSS</span><span>50%</span></div>
+                                            <div class="progress-text"><span>CSS</span><span>90%</span></div>
                                         </div>
                                         <div class="progress-text"><span>CSS</span></div>
                                     </div>
@@ -290,7 +293,7 @@
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" aria-valuenow="70"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>HTML</span><span>70%</span></div>
+                                            <div class="progress-text"><span>HTML</span><span>95%</span></div>
                                         </div>
                                         <div class="progress-text"><span>HTML</span></div>
                                     </div>
@@ -300,7 +303,7 @@
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© Iury Gomes de Oliveira</footer>
+                    <footer class="footer">© Matheus Tavares dos Santos</footer>
                 </div>
             </div>
         </div>

@@ -2,121 +2,16 @@
 <html lang="pt-br">
 
 <head>
-<<<<<<< HEAD
-    <meta charset='UTF-8'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <meta name='robots' content='index, follow'>
-    <link rel='shortcut icon' href='assets/img/ifto.svg'>
-    <link rel='stylesheet' href='assets/css/boot.css'>
-    <link rel='stylesheet' href='assets/css/style.css'>
 
-    <title>Document</title>
-
-</head>
-=======
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
->>>>>>> origin/feature/webdesing
+    <title>Matheus Tavares dos Santos</title>
+
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-<<<<<<< HEAD
-    <header>
-        <h1>
-            Seja bem vindo ao meu site
-        </h1>
-        <p>Exemplo de seletores</p>
-    </header>
-
-    <main>
-        <a href="btn btn_green">Botão</a>
-        <a href="btn btn_red">Excluir</a>
-
-        <section class="main_blog radius">
-            <header>
-                <h2>
-                    Sessão Principal de Conteúdo
-                </h2>
-            </header>
-            <article class="radius">
-                <header>
-                    <h3 class="title_medium_lightgray">
-                        Teste de Artigo
-                    </h3>
-                </header>
-                <p>
-                    Laboriosam accusamus molestias magni deleniti et exercitationem voluptas. Architecto et sunt odio
-                    facere
-                    ullam et soluta. Harum aut et. Dignissimos quos eum impedit sint enim magni enim illum sint. Nostrum
-                    sit
-                    a.
-                </p>
-            </article>
-            <article>
-                <header>
-                    <h3>
-                        Teste de Artigo
-                    </h3>
-                </header>
-                <p>
-                    Laboriosam accusamus molestias magni deleniti et exercitationem voluptas. Architecto et sunt odio
-                    facere
-                    ullam et soluta. Harum aut et. Dignissimos quos eum impedit sint enim magni enim illum sint. Nostrum
-                    sit
-                    a.
-                </p>
-            </article>
-            <article>
-                <header>
-                    <h3>
-                        Teste de Artigo
-                    </h3>
-                </header>
-                <p>
-                    Laboriosam accusamus molestias magni deleniti et exercitationem voluptas. Architecto et sunt odio
-                    facere
-                    ullam et soluta. Harum aut et. Dignissimos quos eum impedit sint enim magni enim illum sint. Nostrum
-                    sit
-                    a.
-                </p>
-            </article>
-            <article>
-                <header>
-                    <h3>
-                        Teste de Artigo
-                    </h3>
-                </header>
-                <p>
-                    Laboriosam accusamus molestias magni deleniti et exercitationem voluptas. Architecto et sunt odio
-                    facere
-                    ullam et soluta. Harum aut et. Dignissimos quos eum impedit sint enim magni enim illum sint. Nostrum
-                    sit
-                    a.
-                </p>
-            </article>
-        </section>
-    </main>
-
-    <article>
-        <header>
-            <h3>
-                Teste de Artigo
-            </h3>
-        </header>
-        <p>
-            Laboriosam accusamus molestias magni deleniti et exercitationem voluptas. Architecto et sunt odio facere
-            ullam et soluta. Harum aut et. Dignissimos quos eum impedit sint enim magni enim illum sint. Nostrum sit
-            a.
-        </p>
-    </article>
-
-
-    <script> </script>
-=======
-    <meta name="author" content="Iury Gomes de Oliveira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="author" content="Matheus Tavares dos Santos" />
+    <meta name="description" content="Portifólio de trabalhos realizados e formação de Matheus Tavares dos Santos" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
@@ -142,30 +37,35 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/matheus.jpeg" alt="Matheus Tavares dos Santos">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
-                        <div class="status">Desenvolvedor WEB</div>
+                        <h4 class="title titl--h4">Matheus Tavares dos Santos</h4>
+                        <div class="status">Desenvolvedor WEB e Cadista</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
-                                    <i class="font-icon icon-linkedin"></i>
+                                <a href="https://www.instagram.com/tavares.matheus17/">
+                                    <i class="font-icon icon-instagram"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/theteustav">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
+                                <a href="https://www.youtube.com/user/TheMatheus1713/featured?view_as=subscriber">
                                     <i class="font-icon icon-youtube"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
+                                <a href="https://twitter.com/Matheus17056743">
                                     <i class="font-icon icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/matheus.tavares.39108">
+                                    <i class="font-icon icon-facebook"></i>
                                 </a>
                             </li>
 
@@ -178,11 +78,11 @@
                             <span class="overhead">
                                 Email
                             </span>
-                            email.comercial@contato.com.br
+                            matheustavares@contato.com.br
                         </li>
                         <li>
                             <span class="overhead">Telefone</span><a
-                                href="https://api.whatsapp.com/send?phone=55xxxxxxxxxxx">+55 (xx) xxxxx-xxxx </a>
+                                href="https://api.whatsapp.com/send?phone=5563992xxxx95">+55 (63) 992xx-xx95 </a>
                         </li>
                     </ul>
                     <ul class="header__contact">
@@ -191,7 +91,7 @@
                             <span class="overhead">
                                 Endereço
                             </span>
-                            Endereço Comercial - UF
+                            Araguaína - TO
                         </li>
                     </ul>
                 </div>
@@ -230,11 +130,9 @@
                         <!-- Sobre Mim  -->
                         <div class="pb-0 pb-sm-2">
                             <h1 class="title title--h1 first-title title__separate">Sobre Mim</h1>
-                            <p>Como muitos, comecei na programação por curiosidade! Com o tempo, o amor pela programação
-                                foi
-                                crescendo a ponto de se tornar uma profissão e me especializar na área. Hoje, com a
-                                bagagem que
-                                tenho, compartilho meu conhecimento com todos os alunos do Campus Araguaina - IFTO</p>
+                            <p>Olá, sou Matheus Tavares, tenho 27 anos e resido em Araguaína-TO. Sou formado em Sistemas
+                                de Informação e estou em busca de novos desafios e conhecimento.
+                                Atualmente trabalho como Cadista Topográfico na empresa RCA e estudo programação. </p>
 
 
                             <div>
@@ -248,25 +146,25 @@
                                             <!-- Item client -->
                                             <div class="swiper-slide">
                                                 <a href="#">
-                                                    <img src="assets/img/ifto.svg" style="background-color: #FFF;"
-                                                        alt="IFTO Logo" /></a>
+                                                    <img src="assets/img/apple.jpg" style="background-color: #FFF;"
+                                                        alt="apple" /></a>
                                             </div>
 
                                             <!-- Item client -->
                                             <div class="swiper-slide">
-                                                <a href="#"><img src="assets/img/ifto.svg"
-                                                        style="background-color: #FFF;" alt="IFTO Logo" /></a>
+                                                <a href="#"><img src="assets/img/facebook.jpg"
+                                                        style="background-color: #FFF;" alt="facebook" /></a>
                                             </div>
                                             <!-- Item client -->
                                             <div class="swiper-slide">
-                                                <a href="#"><img src="assets/img/ifto.svg"
+                                                <a href="#"><img src="assets/img/microsoft.jpg"
                                                         style="background-color: #FFF;" alt="IFTO Logo" /></a>
                                             </div>
                                             <!-- Item client -->
                                             <div class="swiper-slide">
                                                 <a href="#">
-                                                    <img src="assets/img/ifto.svg" style="background-color: #FFF;"
-                                                        alt="IFTO Logo" /></a>
+                                                    <img src="assets/img/samsung.jpg" style="background-color: #FFF;"
+                                                        alt="samsung" /></a>
                                             </div>
 
                                         </div>
@@ -278,7 +176,7 @@
 
                             <!-- Footer -->
                             <footer class="footer">
-                                © Iury Gomes de Oliveira
+                                © Matheus Tavares dos Santos
                             </footer>
                         </div>
                     </div>
@@ -304,8 +202,6 @@
     <script src="assets/js/plugins.min.js"></script>
     <script src="assets/js/common.js"></script>
 
-
->>>>>>> origin/feature/webdesing
 </body>
 
 </html>

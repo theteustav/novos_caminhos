@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
+    <title>Matheus Tavares dos Santos</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="author" content="Iury Gomes de Oliveira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="author" content="Matheus Tavares dos Santos" />
+    <meta name="description" content="Portifólio de trabalhos realizados e formação de Matheus Tavares dos Santos" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
@@ -36,30 +36,35 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/matheus.jpeg" alt="Matheus Tavares dos Santos">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
-                        <div class="status">Desenvolvedor WEB</div>
+                        <h4 class="title titl--h4">Matheus Tavares dos Santos</h4>
+                        <div class="status">Desenvolvedor WEB e Cadista</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
-                                    <i class="font-icon icon-linkedin"></i>
+                                <a href="https://www.instagram.com/tavares.matheus17/">
+                                    <i class="font-icon icon-instagram"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/theteustav">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
+                                <a href="https://www.youtube.com/user/TheMatheus1713/featured?view_as=subscriber">
                                     <i class="font-icon icon-youtube"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
+                                <a href="https://twitter.com/Matheus17056743">
                                     <i class="font-icon icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/matheus.tavares.39108">
+                                    <i class="font-icon icon-facebook"></i>
                                 </a>
                             </li>
 
@@ -72,11 +77,11 @@
                             <span class="overhead">
                                 Email
                             </span>
-                            email.comercial@contato.com.br
+                            matheustavares@contato.com.br
                         </li>
                         <li>
                             <span class="overhead">Telefone</span><a
-                                href="https://api.whatsapp.com/send?phone=55xxxxxxxxxxx">+55 (xx) xxxxx-xxxx </a>
+                                href="https://api.whatsapp.com/send?phone=5563992xxxx95">+55 (63) 992xx-xx95 </a>
                         </li>
                     </ul>
                     <ul class="header__contact">
@@ -85,7 +90,7 @@
                             <span class="overhead">
                                 Endereço
                             </span>
-                            Endereço Comercial - UF
+                            Araguaína - TO
                         </li>
                     </ul>
                 </div>
@@ -137,60 +142,60 @@
                                 <!-- Item 1 -->
                                 <figure class="gallery-grid__item category-html category-js">
                                     <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
+                                        <img class="gallery-grid__image cover lazyload" src="assets/img/olx.jpg"
                                             data-zoom alt="" />
                                     </div>
                                     <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
+                                        <h4 class="title title--h6 gallery-grid__title">Olx</h4>
+                                        <span class="gallery-grid__category">www.olx.com.br </span>
                                     </figcaption>
                                 </figure>
 
                                 <!-- Item 2 -->
                                 <figure class="gallery-grid__item category-wordpress">
                                     <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
+                                        <img class="gallery-grid__image cover lazyload" src="assets/img/nosso_lar.jpg"
                                             data-zoom alt="" />
                                     </div>
                                     <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
+                                        <h4 class="title title--h6 gallery-grid__title">Lojas Nosso Lar</h4>
+                                        <span class="gallery-grid__category">www.lojasnossolar.com.br </span>
                                     </figcaption>
                                 </figure>
 
                                 <!-- Item 3 -->
                                 <figure class="gallery-grid__item category-wordpress">
                                     <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
+                                        <img class="gallery-grid__image cover lazyload" src="assets/img/americanas.png"
                                             data-zoom alt="" />
                                     </div>
                                     <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
+                                        <h4 class="title title--h6 gallery-grid__title">Lojas Americanas</h4>
+                                        <span class="gallery-grid__category">www.americanas.com.br </span>
                                     </figcaption>
                                 </figure>
 
                                 <!-- Item 4 -->
                                 <figure class="gallery-grid__item category-html category-wordpress category-php">
                                     <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
+                                        <img class="gallery-grid__image cover lazyload" src="assets/img/construgel.jpg"
                                             data-zoom alt="" />
                                     </div>
                                     <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
+                                        <h4 class="title title--h6 gallery-grid__title">Construgel</h4>
+                                        <span class="gallery-grid__category">www.construgelconstrucoes.com.br </span>
                                     </figcaption>
                                 </figure>
 
                                 <!-- Item 5 -->
                                 <figure class="gallery-grid__item category-wordpress">
                                     <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
+                                        <img class="gallery-grid__image cover lazyload" src="assets/img/falone.jpg"
                                             data-zoom alt="" />
                                     </div>
                                     <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
+                                        <h4 class="title title--h6 gallery-grid__title">Falone Turismo</h4>
+                                        <span class="gallery-grid__category">www.faloneturismo.com.br </span>
                                     </figcaption>
                                 </figure>
 
@@ -200,7 +205,7 @@
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© Wagner Alcantara da Silva</footer>
+                    <footer class="footer">© Matheus Tavares dos Santos</footer>
                 </div>
             </div>
         </div>
